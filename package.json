@@ -1,7 +1,7 @@
 {
   "name": "cordova-plugin-file-opener2",
   "version": "2.0.19",
-  "description": "A File Opener Plugin for Cordova. (The Original Version)",
+  "description": "A File Opener Plugin for Cordova. (icomedias Branch)",
   "cordova": {
     "id": "cordova-plugin-file-opener2",
     "platforms": [
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/pwlin/cordova-plugin-file-opener2.git"
+    "url": "https://github.com/IcoDeveloper/cordova-plugin-file-opener2.git"
   },
   "keywords": [
     "ecosystem:cordova",
@@ -29,11 +29,11 @@
     }
   ],
   "author": {
-    "name": "pwlin05@gmail.com"
+    "name": "developer@icomedias.com"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/pwlin/cordova-plugin-file-opener2/issues"
+    "url": "https://github.com/IcoDeveloper/cordova-plugin-file-opener2/issues"
   },
-  "homepage": "https://github.com/pwlin/cordova-plugin-file-opener2#readme"
+  "homepage": "https://github.com/IcoDeveloper/cordova-plugin-file-opener2#readme"
 }
